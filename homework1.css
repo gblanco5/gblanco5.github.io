@@ -1,0 +1,21 @@
+body {
+	background-color: #ffffcc;
+	font-family: Arial;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+.pictext {
+	overflow: auto;
+}
+
+.meImage {
+	float: left;
+	margin-right: 7px;
+}
